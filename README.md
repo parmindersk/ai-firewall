@@ -2,7 +2,7 @@
 
 OpenResty-based security gateway for AI applications implementing OWASP LLM security controls.
 
-## Protections
+## Example Protections
 
 - **Prompt Injection Protection** (OWASP LLM01)
 - **Tool Misuse Prevention** (OWASP LLM06)
